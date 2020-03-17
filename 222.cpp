@@ -71,8 +71,13 @@ EXIT:
 	return !result;
 }
 
-
-//ÏÈÏÅÖ ÊÀÊÎÉ-òî, ÊÈÐÈËËÈÖÀ ÈÌÅÅÒ ÏÐÅÄÑÒÀÂËÅÍÈÅ, ÊÀÊ ÁÓÄÒÎ ÎÍÀ ÎÒÐÈÖÀÒÅËÜÍÀß, ÍÎ ÑÐÀÂÍÈÂÀÒÜ Å¨ Ñ [ESI] ÍÅËÜÇß (Îòðèöàòåëüíûå çíà÷åíèÿ)
+//russkiy - ne hochet. english (checkold == working). 
+//problema v tom, 4to russkie simvoly v chare predstavleny kak -33..-1 (primerno). Otricatelnye zna4enia nelz9 sravnivatb c ESI v kotorom char -> 
+//1) Poprosit y nego delatb drygoi varik
+//2) Sprositb y nego pro etot rofl
+//3) Pon9tb, kakogo xrena voobshe eto proisxodit
+//4) KosbIlb dl9 russkogo 9zika
+//ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½-ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å¨ ï¿½ [ESI] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)
 //
 
 bool checkold(char* stroka, int sizeStr) {
