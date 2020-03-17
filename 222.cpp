@@ -18,7 +18,7 @@ using namespace std;
 //BACK:
 //		inc esi;
 //		loop	CYCLER
-//
+//s
 //		jmp		EXIT
 //small:
 //		inc		eax
