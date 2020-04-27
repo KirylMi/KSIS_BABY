@@ -1,6 +1,9 @@
 # KSIS_BABY
  M9LEVICH
  
+
+## Laby:
+
 3 laba -> 222.cp, varik = 6
 
 4 laba -> test.asm, varik = 6 #Запускать только через turbo debugger, без него ошибка какая-то)))
@@ -9,6 +12,13 @@
 
 Vspomogatelny soft:
 https://techapple.net/2013/01/tasm-windows-7-windows-8-full-screen-64bit-version-single-installer/  (DOSBOX + TASM + TLINK + TD (3МБайта))
+
+## Praktos:
+
+27.04.2020 -> Practos27-04-2020.exe Вводим также, как в методичке, т.е. 
+> Fisrt ip = 26.219.123.6<br/>
+> Second ip = 26.218.102.31<br/>
+> Maska = 255.192.0.0<br/>
 
 <h1> P.S. </h1>
 
